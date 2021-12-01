@@ -1,0 +1,13 @@
+@media only screen and (max-width: 1024px) {
+
+	h1,.paragraph1 {
+		color: red;
+	}
+}
+
+@media only screen and (min-width: 1025px) {
+
+	h1,.paragraph1 {
+		color: greenyellow;
+	}
+}
